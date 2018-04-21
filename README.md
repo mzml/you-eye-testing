@@ -1,5 +1,5 @@
-# you-eye-testing :neckbeard:
-It can help to have certain tests you want automated. Automated tests can be used in software development when making web applications. Java as a programming language allows you to build an automated testing platform for the web.
+# you-eye-testing
+It can help to have certain tests you want automated:neckbeard:. Automated tests can be used in software development when making web applications. Java as a programming language allows you to build an automated testing platform for the web.
 
 ## :coffee:
 
