@@ -1,0 +1,9 @@
+<test name="Selenium TestNG Test Suite">
+	<parameter name="browser" value="chrome" />
+	<parameter name="platform" value="Windows 10" />
+	<parameter name="browserPrefs" value="intl.accept_languages:fr" />
+
+	<classes>
+		<class name="com.myproject.MyTest" />
+	</classes>
+</test>
