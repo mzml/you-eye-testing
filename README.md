@@ -1,4 +1,4 @@
-# you-eye-testing
+# Testing with automated :eyes:
 App development is done iteratively and with quality in mind. It can help to have certain tests automated during development. This is a template for building a test automation framework.
 
 ## :coffee:
